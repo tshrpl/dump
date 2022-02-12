@@ -26,6 +26,30 @@ The recycling of aluminium cans and other aluminium products is a very positive 
 ---
 
 
+# CERTIFICATE
+
+### MAHARISHI VIDYA MANDIR, SILCHAR
+(AFFILIATED TO C.B.S.E., NEW DELHI)
+
+**_JAI GURUDEV_**
+
+<ins>CERTIFICATE</ins>
+
+This is to certify that the project work entitled
+
+### "PREPARATION OF POTASH ALUM FROM SCRAP ALUMINIUM"
+
+submitted by: <name of the student>
+  
+For the partial fulfillment of Class-XII Chemistry syllabus in Maharishi Vidya Mandir, Silchar. It is also certified that the candidate has compiled all the formalities as per the requirement of C.B.S.E. Curriculum. We recommend that the project report may be placed before the examiners.
+  
+----------                        --------------
+Madam Samita Dutta            Mr. ______________
+(Principal)                       (Chemistry Teacher)
+
+---
+
+
 # INTRODUCTION
 
 Aluminium because of its low density, high tensile strength and resistance to corrosion is widely used for the manufacture of aeroplanes, automobiles lawn furniture as well as for aluminium cans. Being good conductor of electricity it is used for transmission of electricity. Aluminium is also used for making utensils. The recycling of aluminium cans and other aluminium products is a very positive contribution to saving out natural resources. Most of the recycled aluminium is melted and recast intro other aluminium metal products or used in the production of various aluminium compounds, the most common of which are the alums. Alums are double sulphates having general formula,
