@@ -16,6 +16,7 @@ The main objective of the project is to prepare an aluminium compound, Alum, fro
 By recycling, scrap aluminium can be reused to make aluminium compounds like alum. This process is far less expensive and energy intensive when compared to creating new aluminium through the electrolysis of aluminium oxide, which must be mined from bauxite ore and then refined using the Bayer process. In beverage industry, the most common wastes polluting the environment are aluminium cans. Since a aluminium metal is not consumed rapidly by corrosion, the amount of scrap aluminium grows rapidly while the available supply of rawmaterials for it's manufacture decreases.
 
 ### WORKING METHODOLOGY
+The recycling of aluminium cans and other aluminium products is a very positive contribution to save out natural resources and in purification of water. Soda alum is used in baking powders and chrome alum is used in tanning leather and water proffing fabrics. aLum is a basic mordant used for fixing acid dyes.
 
 
 ---
