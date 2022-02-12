@@ -66,16 +66,27 @@ The resulting solution is concentrated to near saturation and cooled. On cooling
 # PROCEDURE
 
 1) Clean a small piece of scrap aluminium with steel wool and cut it into very small pieces. Aluminium foil may be taken insert of scrap aluminium.
+
 2) Put the the small piece of scrap aluminium or aluminium foil (about 1.00g) into a conical flask and add about 50ml of 4M KOH solution to dissolve the aluminium.
+
 3) The flask may be heated gently in order to facilitate dissovled. Since during this step hydrogen gas is evolved, this step must be done in a well ventilated area.
+
 4) Continue heating until all of the aluminium reacts.
+
 5) Filter the solution to remove any insoluble impurities and reduce the volume to about 25ml by heating.
+
 6) Allow the filtrate to cool. Now add slowly 6M H2SO4 until insoluble Al(OH)3 just forms in the solution.
+
 7) Gently heat the mixture until the Al(OH)3 precipitate dissolves.
+
 8) Cool the resulting solution in an ice-bath for about 30 minutes whereby alum crystals should separate out. For better results the solution may be left overnight for crystallization to continue.
+
 9) In case crytals do not form the solution may be further concentrated and cooled again.
+
 10) Filter the crytals from the solution using vacuum pump; wash the crystals with 50/50 ethanol-water mixture.
+
 11) Continue applying the vacuum until the crystals appear dry.
+
 12) Determine the mass of alum crystals.
 
 
