@@ -68,6 +68,22 @@ I <name of the student>, declare that the subject matter of the project entitled
 ```                         - <name of the student>
 ```
 ---
+   
+# CONTENTS
+
+1) Introduction
+
+2) Requirements
+
+3) Theory
+
+4) Procedure
+
+5) Observation
+
+6) Bibliography
+
+---
 
 # INTRODUCTION
 
@@ -89,6 +105,19 @@ Some important alum and their names are given below:
 **K<sub>2</sub>SO<sub>4</sub>.Cr<sub>2</sub>(S0<sub>4</sub>)<sub>3</sub>.24H<sub>2</sub>O - Chrome Alum**
 
 **(NH)<sub>2</sub>SO<sub>4</sub>.Fe<sub>2</sub>(S0<sub>4</sub>)<sub>3</sub>.24H<sub>2</sub>O - Ferric Alum**
+
+---
+
+# REQUIREMENTS
+
+- 250ml flask
+- Funnel
+- Breaker
+- Scrap aluminium or cola can
+- Potasium hydroxide solution (KOH)
+- 6M Sulphuric Scid (H<sub>2</sub>SO<sub>4</sub>)
+- Water bath
+- Ethanol
 
 ---
 
@@ -136,5 +165,22 @@ The resulting solution is concentrated to near saturation and cooled. On cooling
 
 12) Determine the mass of alum crystals.
 
+
+---
+
+# OBSERVATIONS
+
+Mass of aluminium = 3.8g
+color = colorless
+shape = octahedral
+
+
+---
+
+# BIBLIOGRAPHY
+- iCBSE.com
+- pubs.acs.org
+- books.google.com
+- wikipedia
 
 
