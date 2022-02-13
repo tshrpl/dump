@@ -44,7 +44,7 @@ submitted by: <name of the student>
 For the partial fulfillment of Class-XII Chemistry syllabus in Maharishi Vidya Mandir, Silchar. It is also certified that the candidate has compiled all the formalities as per the requirement of C.B.S.E. Curriculum. We recommend that the project report may be placed before the examiners.
 ```
 __________                        ______________
-Madam Samita Dutta            Mr. Sanjay Adhikari
+Madam Samita Dutta            Mr. Arghyaraj Bhattacharjee
 (Principal)                       (Chemistry Teacher)
 ```
 ---
