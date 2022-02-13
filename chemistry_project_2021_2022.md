@@ -61,9 +61,13 @@ Last but not the least, I offer my heartful thanks to my parents and all my frie
                        <class-section-stream-roll>
 ```
   
-  
 ---
 
+# DECLARATION
+I <name of the student>, declare that the subject matter of the project entitled "Preparation of poatash alum from aluminium scrap" is the representation of work done by me in the time period of 2<sup>nd</sup> of Higher Secondary course on subject of Chemistry. It involves practical experiments and theoretical approach which has been undertaken solely and truly. I hereby also declare that this representation is submitted to M.V.M. Senior Secondary School, Silchar and has not been submitted earlier to any other institute.
+```                         - <name of the student>
+```
+---
 
 # INTRODUCTION
 
