@@ -42,11 +42,26 @@ This is to certify that the project work entitled
 submitted by: <name of the student>
   
 For the partial fulfillment of Class-XII Chemistry syllabus in Maharishi Vidya Mandir, Silchar. It is also certified that the candidate has compiled all the formalities as per the requirement of C.B.S.E. Curriculum. We recommend that the project report may be placed before the examiners.
-  
-----------                        --------------
-Madam Samita Dutta            Mr. ______________
+```
+__________                        ______________
+Madam Samita Dutta            Mr. Sanjay Adhikari
 (Principal)                       (Chemistry Teacher)
+```
+---
 
+# ACKNOWLEDGEMENT
+It is a great pleasure for me that I have been able to prepare the project work with the kind help so many people without whom, it would have been really very difficult. So, I feel, it is my duty to devote my sincere indebtedness and heartfelt gratitude to all those who have helped me to furnish the project.
+  
+First of all, I thank out respected Principal Madam Samitta Dutta and out Chemistry teacher Sir Sanjay Adhikari for providing me valuable suggestions and guidance in preparing the project. Their valuable knowledge and suggestions were much essential for me to complete the project.
+  
+Last but not the least, I offer my heartful thanks to my parents and all my friends with shome I have discussed many things and have taken their suggestions.
+  
+```
+                       <name of the student>
+                       <class-section-stream-roll>
+```
+  
+  
 ---
 
 
